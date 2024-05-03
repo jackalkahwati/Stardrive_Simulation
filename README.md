@@ -33,9 +33,8 @@ pip install -r requirements.txt
 1. **Launch the Application**:
 python main.py
 
-vbnet
-Copy code
 2. **Set Parameters**: Enter the desired parameters in the GUI.
+
 3. **Run Simulation/Optimization**: Choose either to simulate with current parameters or to run optimization algorithms.
 
 ## Configuration
