@@ -1,0 +1,36 @@
+{
+    "spacecraft_mass": 1000.0,
+    "ring_diameters": [
+        10.0,
+        20.0,
+        30.0
+    ],
+    "ring_thicknesses": [
+        0.1,
+        0.2,
+        0.3
+    ],
+    "magnetic_fields": [
+        20.0,
+        30.0,
+        40.0
+    ],
+    "electric_fields": [
+        1000.0,
+        2000.0
+    ],
+    "current_densities": [
+        10000.0,
+        20000.0
+    ],
+    "em_losses": 5.0,
+    "plasma_losses": 10.0,
+    "g_force_manned": 3.0,
+    "g_force_unmanned": 6.0,
+    "initial_velocity": 1000.0,
+    "desired_delta_v": 100.0,
+    "pulse_frequency": 10.0,
+    "pulse_duration": 0.1,
+    "efficiency": 80.0,
+    "max_iterations": 100
+}
