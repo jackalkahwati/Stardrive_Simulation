@@ -23,18 +23,11 @@ Ensure you have Python 3.8 or later installed, along with the following packages
 1. **Clone the Repository**:
 git clone https://github.com/yourrepository/stardriverelay.git
 
-markdown
-Copy code
 2. **Navigate to the Directory**:
 cd stardriverelay
 
-markdown
-Copy code
 3. **Install Dependencies**:
 pip install -r requirements.txt
-
-markdown
-Copy code
 
 ## Usage
 1. **Launch the Application**:
